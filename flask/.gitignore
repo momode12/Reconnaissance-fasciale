@@ -1,0 +1,13 @@
+.env
+HEAD
+/_pycache__
+*.pyc
+/venv
+venv/
+__pycache__/
+env/
+*.pyc   
+
+venv/
+__pycache__/
+feature/googlecollab
